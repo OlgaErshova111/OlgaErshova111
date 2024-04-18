@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-FFEF6A?style=for-the-badge&logo=git)
 ![Bash](https://img.shields.io/badge/Bash-FFEF6A?style=for-the-badge&logo=bash)
 ![Charles](https://img.shields.io/badge/Charles-FFEF6A?style=for-the-badge&logo=charles)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFEF6A?style=for-the-badge&logo=AndroidStudio)
 
 Test Artefacts
 
