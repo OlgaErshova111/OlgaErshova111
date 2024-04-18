@@ -18,6 +18,8 @@
 
 [REST API via Postman](https://www.postman.com/olga148/workspace/petstore/overview)
 
+[Итоговая работа по курсу](https://github.com/OlgaErshova111/Testing-Course-Result)
+
 ## Contact me
 
 [![Telegram](https://img.shields.io/badge/telegram-FFEF6A?style=for-the-badge&logo=Telegram)](https://t.me/Ershova_Ol_ga)
