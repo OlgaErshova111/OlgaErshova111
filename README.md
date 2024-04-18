@@ -13,6 +13,10 @@
 ![Charles](https://img.shields.io/badge/Charles-FFEF6A?style=for-the-badge&logo=charles)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-FFEF6A?style=for-the-badge&logo=AndroidStudio)
 
-Test Artefacts
+## Test Artifacts
+[MySQL](https://github.com/OlgaErshova111/MySQL)
 
-Contact me
+[REST API via Postman](https://www.postman.com/olga148/workspace/petstore/overview)
+
+## Contact me
+
