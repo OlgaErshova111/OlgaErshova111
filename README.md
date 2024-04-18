@@ -20,3 +20,5 @@
 
 ## Contact me
 
+[![Telegram](https://img.shields.io/badge/telegram-FFEF6A?style=for-the-badge&logo=Telegram)](https://t.me/Ershova_Ol_ga)
+[![email](https://img.shields.io/badge/Email-FFEF6A?style=for-the-badge&logo=gmail)](mailto:9087olga@gmail.com)
